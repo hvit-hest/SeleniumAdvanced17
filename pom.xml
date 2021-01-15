@@ -89,12 +89,12 @@
                 <driver>remote_firefox</driver>
             </properties>
         </profile>
-       <profile>
-        <id>chrome_saucelab</id>
-        <properties>
-            <driver>chrome_saucelab</driver>
-        </properties>
-    </profile>
+        <profile>
+            <id>chrome_saucelab</id>
+            <properties>
+                <driver>chrome_saucelab</driver>
+            </properties>
+        </profile>
     </profiles>
 
 
